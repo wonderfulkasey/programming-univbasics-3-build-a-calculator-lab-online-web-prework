@@ -14,10 +14,10 @@ def multiplication(4, 30)
 4 * 30 = 120
 end
 
-def modulo(3, 9)
-9 % 3 = 0
+def modulo(34, 5)
+34 % 5 = 4
 end
 
-def square_root(9)
+def square_root(81)
 Math.sqrt(9) = 3
 end
