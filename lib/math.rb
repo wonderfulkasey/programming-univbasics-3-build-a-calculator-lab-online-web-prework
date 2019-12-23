@@ -10,8 +10,8 @@ def division(50, 2)
 50 / 2 = 25
 end
 
-def multiplication(3, 3)
-3 * 3 = 9
+def multiplication(4, 30)
+4 * 30 = 120
 end
 
 def modulo(3, 9)
