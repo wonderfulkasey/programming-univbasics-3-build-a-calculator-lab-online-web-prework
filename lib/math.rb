@@ -10,12 +10,12 @@ def division(3, 9)
 9 / 3 = 3
 end
 
-def multiplication(num1, num2)
-
+def multiplication(3, 3)
+3 * 3 = 9
 end
 
-def modulo(num1, num2)
-
+def modulo(3, 9)
+9 / 3 
 end
 
 def square_root(num)
