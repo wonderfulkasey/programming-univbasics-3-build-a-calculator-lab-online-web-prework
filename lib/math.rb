@@ -15,9 +15,9 @@ def multiplication(3, 3)
 end
 
 def modulo(3, 9)
-9 / 3 
+9 % 3 = 0
 end
 
-def square_root(num)
+def square_root(9)
 
 end
