@@ -19,5 +19,5 @@ def modulo(34, 5)
 end
 
 def square_root(81)
-Math.sqrt(9) = 3
+Math.sqrt(9) = 9
 end
