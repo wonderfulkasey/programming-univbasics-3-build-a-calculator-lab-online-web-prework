@@ -2,8 +2,8 @@ def addition(5, 4)
 4 + 5 = 9
 end
 
-def subtraction(10, 12)
-12 - 10 = 2
+def subtraction(10, 5)
+5 - 10 = -5
 end
 
 def division(3, 9)
