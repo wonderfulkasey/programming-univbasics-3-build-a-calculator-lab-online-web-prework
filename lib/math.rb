@@ -1,13 +1,13 @@
 def addition(5, 4)
-4 + 5 = 9
+5 + 4 = 9
 end
 
 def subtraction(10, 5)
-5 - 10 = -5
+10 - 5 = 5
 end
 
-def division(3, 9)
-9 / 3 = 3
+def division(50, 2)
+50 / 2 = 25
 end
 
 def multiplication(3, 3)
